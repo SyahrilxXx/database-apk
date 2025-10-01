@@ -4,11 +4,5 @@
     "password": "syahril",
     "role": "admin",
     "expired": ""
-  },
-  {
-    "username": "user",
-    "password": "1234",
-    "role": "user",
-    "expired": "2025-10-31"
   }
 ]

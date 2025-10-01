@@ -3,7 +3,7 @@
     "username": "admin",
     "password": "syahril",
     "role": "admin",
-    "expired": "5000-12-31"
+    "expired": ""
   },
   {
     "username": "user",

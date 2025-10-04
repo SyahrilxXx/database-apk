@@ -3,7 +3,6 @@
     "username": "admin",
     "password": "syahril",
     "role": "owners",
-    "expiresAt": 1765008000000,
-    "createdAt": 1746451200000
+    "expired": 2900-30-12
   }
 ]

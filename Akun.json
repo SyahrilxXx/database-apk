@@ -2,7 +2,7 @@
   {
     "username": "admin",
     "password": "syahril",
-    "role": "owners",
-    "expired": 2900-30-12
+    "role": "owner",
+    "expired": "2900-30-12"
   }
 ]

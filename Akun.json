@@ -2,7 +2,7 @@
   {
     "username": "admin",
     "password": "syahril",
-    "role": "owner",
+    "role": "admin",
     "expired": "Unlimited"
   }
 ]
